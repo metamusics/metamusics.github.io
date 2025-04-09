@@ -52,3 +52,6 @@ This project interprets Alexander Scriabin's controversial color-music system fr
 
 ## Read More
 Go to Wikipedia and study this [Scriabin](https://en.wikipedia.org/wiki/Alexander_Scriabin) fellow.
+
+## Demo
+You can find a basic demo [here](http://metamusics.github.io).
